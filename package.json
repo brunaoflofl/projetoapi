@@ -1,0 +1,19 @@
+{
+  "name": "projetoone",
+  "version": "1.0.0",
+  "description": "consumo de api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunaoflofl/projetoapi.git"
+  },
+  "author": "Bruna Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunaoflofl/projetoapi/issues"
+  },
+  "homepage": "https://github.com/brunaoflofl/projetoapi#readme"
+}
